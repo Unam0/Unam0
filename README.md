@@ -1,8 +1,8 @@
 ### Hi, I'm Manu 👋😊 Nice to meet you
 
-![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manoela-evangelista-b5241132a/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/manuevansg_/)
+<a href= "mailto:manueliaevangelistapaula@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href= "https://www.linkedin.com/in/manoela-evangelista-b5241132a/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=whitee"></a>
+<a href= "https://www.instagram.com/manuevansg_/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=whitee"></a>
 
 ![Uman0's GitHub stats](https://github-readme-stats.vercel.app/api?username=unam0&show_icons=true&theme=synthwave)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Unam0&hide_progress=true&theme=synthwave)
